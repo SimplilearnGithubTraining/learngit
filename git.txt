@@ -1,1 +1,2 @@
-Welcome to Git Training!!
+Welcome to Git and GitHub Training!!
+by Simplilearn!!
